@@ -1,0 +1,195 @@
+
+.tagrabde{
+	width: 2280px;
+}
+.tamedio{
+	width: 1500px;
+}
+.tapeque{
+	width: 1180px;
+}
+.rojofondo{
+	background: #F6CECE;
+}
+.verdefondo{
+	background: #BCF5A9;
+}
+.azulfondo{
+	background: #A9D0F5;
+}
+.amarillofondo{
+	background: #F3F781;
+}
+
+.rojoall{
+	background: #FA5858;
+}
+.verdeall{
+	background: #04B404;
+}
+.azulall{
+	background: #0080FF;
+}
+.amarilloall{
+	background: #FFBF00;
+}
+.grande{
+	font-size:30px;
+}
+.mediano{
+	font-size:20px;
+}
+.peque{
+	font-size:10px;
+}
+.larial{
+	font-family: Arial, Helvetica, sans-serif;
+}
+.lcalibri{
+	font-family: "Courier New", Courier, monospace;
+}
+.ltime{
+	font-family: "Times New Roman", Times, serif;
+}
+
+.lcomic{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+#body{
+	
+}
+table{
+	
+	
+	width:100%;
+}
+table td{
+	
+	padding:20px;
+}
+table tr:hover{
+	background:#FF0040;
+}
+#es{
+	text-align:center;
+}
+#contenedor{
+	width: 2280px;
+	height: 1800px;
+	
+	margin: 0.5em auto;
+	padding: 0.5em;
+}
+#he{
+	height: 5%;
+	
+	
+}
+#inf{
+	height: 70%;
+	width: 64%;
+	
+	border-radius: 1em;
+	padding: 1em;
+	margin: 1em;
+	float: left;
+	text-align:center;
+	font: 20px;
+}
+#cerrar{
+	height: 70%;
+	width: 10%;
+	
+	border-radius: 1em;
+	padding: 1em;
+	margin: 1em;
+	float: right;
+	text-align:center;
+	font:16px;
+}
+#perfil{
+	height: 70%;
+	width: 10%;
+	
+	border-radius: 1em;
+	padding: 1em;
+	margin: 1em;
+	float: right;
+	text-align:center;
+	font:16px;
+}
+#header{
+	height: 1.65%;
+	
+	border-radius: .9em;
+	padding: 0.9em;
+	margin: 0.9em;
+	text-align:center;
+	font:30px;
+}
+#te{
+	height: 2%;
+	
+	border-radius: 0.9em;
+	padding: 0.9em;
+	margin: 0.9em;
+	text-align:center;
+	font:25px;
+}
+#tema{
+	height: 2%;
+	
+	border-radius: 1em;
+	padding: 1em;
+	margin: 1em;
+	text-align:center;
+	font:35px;
+}
+input[type="text"]{
+	width: 300px;
+	height: 25px;
+	font: 15px ;
+	
+}
+#menu{
+	height: 4.5%;
+	
+	border-radius: 1em;
+	padding: 1em;
+	margin: 1em;
+	text-align:center;
+	font: 25px ;
+}
+#contenido{
+	height: 80%;
+	padding-left: 55px;
+	padding-top: 10px;
+}
+#section{
+	height: 75%;
+	width: 85%;
+	
+	border-radius: 1em;
+	padding: 1em;
+	margin: 1em;
+	text-align:justify;
+}
+
+
+#imagen1{
+	margin:10px auto;
+	display:block;
+}
+
+.desa{
+	display: none;
+}
+
+.titulos{
+	text-align: center;
+}
