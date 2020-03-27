@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comentarios>
+	<comentario id="0">
+		<contenido>
+			"Hola Mundo"
+		</contenido>
+	</comentario>
+	<comentario id="0">
+		<contenido>
+			"FCE"
+		</contenido>
+	</comentario>
+</comentarios>
