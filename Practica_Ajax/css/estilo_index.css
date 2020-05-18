@@ -1,0 +1,111 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+#contenedor{
+	width: 1300px;
+	height: 640px;
+	  
+	margin: 0.5em auto;
+	padding: 0.5em;
+}
+#he{
+	
+	height: 100px;
+	text-align:center;
+}
+#header{
+	font: 20px normal normal uppercase helvetica, verdana, serif;
+	height: 80px;
+	text-align:center;
+}
+
+#comentario{
+
+	height: 40px;
+	text-align:center;
+}
+
+.tabla{
+	position: realative;
+	width: 1200px;
+	height: 400px;
+	padding-left: 20px;
+	padding-top: 20px;
+	border-radius: 20px;
+	margin: auto;
+}
+#vista{
+	height: 70%;
+	width: 44.5%;
+	background: #FE642E;
+	border-radius: 2em;
+	padding: 1em;
+	margin: 1em;
+	float: left;
+	text-align:center;
+}
+#ma{
+	height: 20%;
+	font: 35px normal normal uppercase helvetica, verdana , serif;
+}
+#tit{
+	height: 20%;
+	font: 35px normal normal uppercase helvetica, verdana , serif;
+}
+#pon{
+	height: 20%;
+	font: 25px normal normal uppercase helvetica, verdana , serif;
+}
+#bo{
+	position:relative;
+	width:150px;
+	height:40px;
+	border-radius:15px;
+	margin-left: 185px;
+	border: 0px;
+	background-color:#DF0101;
+	font: 20px normal normal uppercase helvetica, arial, serif;
+	
+}
+#ing{
+	height: 70%;
+	width: 44.5%;
+	background: #FE642E;
+	border-radius: 2em;
+	padding: 1em;
+	margin: 1em;
+	float: right;
+	text-align:center;
+}
+input[type= "text"]{
+	width: 350px;
+	height: 35px;
+	font: 15px normal normal uppercase helvetica, arial, serif;
+}
+
+input[type= "password"]{
+	width: 350px;
+	height: 35px;
+	font: 15px normal normal uppercase helvetica, arial, serif;
+}
+
+input[type="submit"]{
+	position:relative;
+	width:150px;
+	height:40px;
+	border-radius:15px;
+	margin-left: 50px;
+	border: 0px;
+	background-color:#DF0101;
+	font: 20px normal normal uppercase helvetica, arial, serif;
+	
+}
+
+p{
+	text-shadow: 0 2px 0 0;
+	font-size: 18px;
+	color: #151515;
+	
+}
