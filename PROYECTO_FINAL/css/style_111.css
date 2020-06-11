@@ -1,0 +1,90 @@
+body {
+	width: 610;
+	font-family: Arial;
+	color: #212121;
+	margin: 0 auto;
+}
+
+.demo-table {
+	width: 100%;
+	border-spacing: initial;
+	margin: 20px 0px;
+	word-break: break-word;
+	table-layout: auto;
+	line-height: 1.8em;
+	color: #333;
+}
+
+.demo-table td {
+	background-color: #ffffff;
+	padding: 20px 5px 5px;
+}
+
+.demo-table td div.feed_title {
+	text-decoration: none;
+	color: #003fff;
+	font-weight: bold;
+}
+
+.demo-table ul {
+	margin: 0;
+	padding: 5px;
+}
+
+.demo-table li {
+	cursor: pointer;
+	list-style-type: none;
+	display: inline-block;
+	color: #F0F0F0;
+	text-shadow: 0 0 1px #666666;
+	font-size: 20px;
+}
+
+.emoji-valoracion-box {
+	border: #E4E4E4 1px solid;
+	margin: 10px 0px;
+}
+
+.emoji-valoracion-count {
+	border-top: #E4E4E4 1px solid;
+	font-size: 0.8em;
+	padding: 2px 5px;
+	background: #f9f9f9;
+	color: #828181;
+}
+
+.emoji-section {
+    position: relative;
+}
+
+.emoji-icon-container {
+    display: none;
+    position: absolute;
+    bottom: 18px;
+    left: 0px;
+}
+
+.emoji-icon-container.show {
+    display: block;
+}
+
+.emoji-icon {
+    width: 48px;
+    margin: 5px 2px 0px 0px;
+}
+
+.like-link {
+    padding: 5px;
+    font-size: 0.95em;
+    color: #949494;
+    cursor: pointer;
+}
+
+.like-link img {
+    vertical-align: top;
+}
+
+.emoji-data {
+    width: 16px;
+    vertical-align: text-top;
+}
